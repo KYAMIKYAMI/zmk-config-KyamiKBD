@@ -4,10 +4,10 @@
 
 / {
   chosen {
-    zmk,physical-layout = &title72_physical_layout;
+    zmk,physical-layout = &KyamiKBD_physical_layout;
   };
 
-  title72_physical_layout: title72_physical_layout {
+  KyamiKBD_physical_layout: KyamiKBD_physical_layout {
       compatible = "zmk,physical-layout";
       display-name = "Default";
       transform = <&default_transform>;
