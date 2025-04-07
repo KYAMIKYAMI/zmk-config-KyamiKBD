@@ -1,7 +1,7 @@
 ---
 include:
-  - board: seeeduino_xiao_ble rgbled_adapter
-    shield: kyamikbd
+  - board: seeeduino_xiao_ble
+    shield: kyamikbd rgbled_adapter
     snippet: zmk-usb-logging studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y
   # - board: seeeduino_xiao_ble
