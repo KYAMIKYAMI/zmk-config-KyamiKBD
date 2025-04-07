@@ -193,20 +193,20 @@
         jis_layer {
            label = "JIS";
            bindings = <
-            &kp none     &kp none     &kp none     &kp none     &kp none     &kp none     &kp none     &kp none     &kp none
-            &kp none     &kp none      &kp none      &kp none      &kp none      &kp none      &kp none      &kp none      &kp none
-            &kp none    &kp none      &kp none      &kp none      &kp none      &kp none      &kp none      &kp none      &kp none
-            &kp none   &kp none      &kp none      &kp none      &kp none      &kp none      &kp none      &kp none      &kp none
+            &none     &none     &none     &none     &none     &none     &none     &none     &none
+            &none     &none      &none      &none      &none      &none      &none      &none      &none
+            &none    &none      &none      &none      &none      &none      &none      &none      &none
+            &none   &none      &none      &none      &none      &none      &none      &none      &none
 >;
        };
 
        function_layer {
            label = "Func";
            bindings = <
-            &kp none     &kp none     &kp none     &kp none     &kp none     &kp none     &kp none     &kp none     &kp none
-            &kp none     &kp none      &kp none      &kp none      &kp none      &kp none      &kp none      &kp none      &kp none
-            &kp none    &kp none      &kp none      &kp none      &kp none      &kp none      &kp none      &kp none      &kp none
-            &kp none   &kp none      &kp none      &kp none      &kp none      &kp none      &kp none      &kp none      &kp none
+            &none     &none     &none     &none     &none     &none     &none     &none     &none
+            &none     &none      &none      &none      &none      &none      &none      &none      &none
+            &none    &none      &none      &none      &none      &none      &none      &none      &none
+            &none   &none      &none      &none      &none      &none      &none      &none      &none
 >;
        };
 
@@ -214,10 +214,10 @@
            display-name = "BT";    
            label = "BT";
             bindings = <
-            &kp none     &kp none     &kp none     &kp none     &kp none     &kp none     &kp none     &kp none     &kp none
-            &kp none     &kp none      &kp none      &kp none      &kp none      &kp none      &kp none      &kp none      &kp none
-            &kp none    &kp none      &kp none      &kp none      &kp none      &kp none      &kp none      &kp none      &kp none
-            &kp none   &kp none      &kp none      &kp none      &kp none      &kp none      &kp none      &kp none      &kp none
+            &none     &none     &none     &none     &none     &none     &none     &none     &none
+            &none     &none      &none      &none      &none      &none      &none      &none      &none
+            &none    &none      &none      &none      &none      &none      &none      &none      &none
+            &none   &none      &none      &none      &none      &none      &none      &none      &none
 >;
        };
     };
