@@ -1,4 +1,4 @@
-#include "KyamiKBD.dtsi"
+#include "kyamiKBD.dtsi"
 
 &uart0 { status = "disabled"; };
 &xiao_i2c { status = "disabled"; };
