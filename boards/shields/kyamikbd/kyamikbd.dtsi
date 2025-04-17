@@ -31,6 +31,8 @@
                   , <&xiao_d 10 (GPIO_ACTIVE_LOW)>
                   , <&xiao_d 9 (GPIO_ACTIVE_LOW)>
                   , <&xiao_d 8 (GPIO_ACTIVE_LOW)>
-                  , <&xiao_d 7 (GPIO_ACTIVE_LOW)>;
+                  , <&xiao_d 7 (GPIO_ACTIVE_LOW)>
+　　　　　　　　　　　　, <&gpio9 (GPIO_ACTIVE_LOW)>
+　　　　　　　　　　　　, <&igpio10 (GPIO_ACTIVE_LOW)>;
     };
 };
